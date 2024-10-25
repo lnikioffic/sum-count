@@ -9,5 +9,5 @@ def sum_count(arr: list[int]):
 
 
 if __name__ == '__main__':
-    l = [1, 3, 4, -2]
-    sum_count(l)
+    arr = [1, 3, 4, -2]
+    sum_count(arr)
