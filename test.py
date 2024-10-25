@@ -1,5 +1,5 @@
 from main import sum_count
-import pytest
+
 
 def test_empty_array():
     assert sum_count([]) == (0, 0)
